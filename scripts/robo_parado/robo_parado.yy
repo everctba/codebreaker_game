@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"robo_parado",
   "isCompatibility":false,
   "isDnD":false,
