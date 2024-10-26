@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"robo_atacando",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"robo_atacando",
+  "parent":{
+    "name":"grupo1",
+    "path":"folders/Scripts/grupo1.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
