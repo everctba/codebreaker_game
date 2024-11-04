@@ -5,8 +5,8 @@ function robo_perseguindo(){
 spd = 0.5	
 	
 //pra podere atualizar o texto da GUI Posicao diferenca player menos robo -  quando entrar nesse state...	
-x = obj_robo.x;
-y = obj_robo.y;
+//x = obj_robo.x;
+//y = obj_robo.y;
 
 diferencaX = obj_player.x - x;
 diferencaY = obj_player.y - y;

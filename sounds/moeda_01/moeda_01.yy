@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"musica_menu",
+  "%Name":"moeda_01",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":77.5053,
-  "name":"musica_menu",
+  "duration":0.182844,
+  "name":"moeda_01",
   "parent":{
     "name":"Sons",
     "path":"folders/Sons.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"musica_menu.mp3",
+  "soundFile":"moeda_01.mp3",
   "type":0,
-  "volume":0.78,
+  "volume":1.0,
 }

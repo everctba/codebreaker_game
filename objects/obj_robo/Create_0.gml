@@ -1,4 +1,4 @@
-podecriarTextoRobo = false;
+podecriarTextoRobo =false;
 diferencaX = 0;
 diferencaY = 0;
 spd = 0.4;
@@ -8,7 +8,7 @@ delay = 0;
 targetX = 0;
 targetY = 0;
 liferobo = 5;
-state = INIMIGO_STATE.PARADO;
+state = INIMIGO_STATE.ATACANDO;
 enum INIMIGO_STATE 
 {
     PARADO,

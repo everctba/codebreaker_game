@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"Obj_inimigo2",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_tiro","path":"objects/Obj_tiro/Obj_tiro.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"Obj_inimigo2",
   "overriddenProperties":[],
