@@ -13,6 +13,7 @@ show_debug_message("velh = " + string(velh));
 show_debug_message("velv = " + string(velv));
 show_debug_message("VEL = " + string(vel));
 
+
 if ( (abs(velh) + abs(velv)) > 1 ){ //movimentacao menor pra compensar as duas teclas
 	//show_debug_message("abs da soma das velocidades totais = " + string((abs(velh) + abs(velv))));
 	x += velh * velocidade_padrao_diagonal;

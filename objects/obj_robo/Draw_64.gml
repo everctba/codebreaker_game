@@ -18,9 +18,20 @@ if (podecriarTextoRobo == true) {
 	//show_debug_message("diferenca X = " + string(diferencaX));
 }
 
+//var scale_x = view_wport[0]/view_wview[0];
+//var scale_y = view_hport[0]/view_hview[0];   
+//var pos_x = x - view_xview[0];
+//pos_x = pos_x * scale_x;
+//var pos_y = y - view_yview[0];
+//pos_y = pos_y * scale_y;
 
+//draw_set_halign(fa_center);
+
+//draw_text(pos_x,pos_y-25,string(liferobo));
+
+//draw_text(220,200, "X= " + string(x) + " - Y = " + string(y));
 if (true) {
-	draw_text(20,100, "Player menos que 100 do robo: X= " + string(diferencaX) + " - Y = " + string(diferencaY));
+	draw_text(120,100, "Player menos que 100 do robo: X= " + string(diferencaX) + " - Y = " + string(diferencaY));
 	if (state == 0){
 		aplidoState = "parado";
 	}
@@ -30,7 +41,7 @@ if (true) {
 	if (state == 2){
 		aplidoState = "atacando";
 	}
-	draw_text(20,120, "State atual = " + string(aplidoState));
+	draw_text(120,120, "State atual = " + string(aplidoState));
 
 	
 }

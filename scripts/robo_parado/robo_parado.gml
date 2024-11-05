@@ -3,17 +3,17 @@
 
 function robo_parado(){
 spd = 0
-x = obj_robo.x;
-y = obj_robo.y;
+x = obj_robo.id.x;
+y = obj_robo.id.y;
 
-diferencaX = obj_player.x - x;
-diferencaY = obj_player.y - y;
+diferencaX = obj_player.id.x - x;
+diferencaY = obj_player.id.y - y;
 
 //if (true) {
 //	show_debug_message("diferenca X = " + string(diferencaX));
 	
 //}
-if distance_to_object(obj_player) < 100
+if distance_to_object(obj_player.id) < 100
 {
 	podecriarTextoRobo = true;
 	show_debug_message("Entrou no range");
