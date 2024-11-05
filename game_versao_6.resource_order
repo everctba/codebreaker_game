@@ -34,7 +34,9 @@
     {"name":"obj_coracao_vida","order":24,"path":"objects/obj_coracao_vida/obj_coracao_vida.yy",},
     {"name":"Obj_dragao","order":10,"path":"objects/Obj_dragao/Obj_dragao.yy",},
     {"name":"Obj_explosao","order":15,"path":"objects/Obj_explosao/Obj_explosao.yy",},
-    {"name":"Obj_fumaca","order":26,"path":"objects/Obj_fumaca/Obj_fumaca.yy",},
+
+    {"name":"obj_flecha_animada_objetivo","order":30,"path":"objects/obj_flecha_animada_objetivo/obj_flecha_animada_objetivo.yy",},
+
     {"name":"Obj_hud","order":11,"path":"objects/Obj_hud/Obj_hud.yy",},
     {"name":"obj_impacto","order":14,"path":"objects/obj_impacto/obj_impacto.yy",},
     {"name":"Obj_inimigo2","order":9,"path":"objects/Obj_inimigo2/Obj_inimigo2.yy",},
@@ -78,7 +80,9 @@
     {"name":"Spr_dead","order":7,"path":"sprites/Spr_dead/Spr_dead.yy",},
     {"name":"Spr_dragao","order":27,"path":"sprites/Spr_dragao/Spr_dragao.yy",},
     {"name":"Spr_explosao","order":9,"path":"sprites/Spr_explosao/Spr_explosao.yy",},
+    {"name":"spr_fase2","order":28,"path":"sprites/spr_fase2/spr_fase2.yy",},
     {"name":"spr_flare","order":16,"path":"sprites/spr_flare/spr_flare.yy",},
+    {"name":"spr_flecha_misao","order":29,"path":"sprites/spr_flecha_misao/spr_flecha_misao.yy",},
     {"name":"Spr_impact","order":8,"path":"sprites/Spr_impact/Spr_impact.yy",},
     {"name":"Spr_inimigo_RED","order":22,"path":"sprites/Spr_inimigo_RED/Spr_inimigo_RED.yy",},
     {"name":"Spr_inimigo","order":3,"path":"sprites/Spr_inimigo/Spr_inimigo.yy",},
