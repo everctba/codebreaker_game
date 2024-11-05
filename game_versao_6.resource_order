@@ -34,7 +34,9 @@
     {"name":"obj_coracao_vida","order":24,"path":"objects/obj_coracao_vida/obj_coracao_vida.yy",},
     {"name":"Obj_dragao","order":10,"path":"objects/Obj_dragao/Obj_dragao.yy",},
     {"name":"Obj_explosao","order":15,"path":"objects/Obj_explosao/Obj_explosao.yy",},
+
     {"name":"obj_flecha_animada_objetivo","order":30,"path":"objects/obj_flecha_animada_objetivo/obj_flecha_animada_objetivo.yy",},
+
     {"name":"Obj_hud","order":11,"path":"objects/Obj_hud/Obj_hud.yy",},
     {"name":"obj_impacto","order":14,"path":"objects/obj_impacto/obj_impacto.yy",},
     {"name":"Obj_inimigo2","order":9,"path":"objects/Obj_inimigo2/Obj_inimigo2.yy",},
@@ -50,6 +52,7 @@
     {"name":"obj_slider","order":28,"path":"objects/obj_slider/obj_slider.yy",},
     {"name":"Obj_tiro","order":2,"path":"objects/Obj_tiro/Obj_tiro.yy",},
     {"name":"Obj_wall","order":3,"path":"objects/Obj_wall/Obj_wall.yy",},
+    {"name":"Room13","order":2,"path":"rooms/Room13/Room13.yy",},
     {"name":"RoomMenu","order":1,"path":"rooms/RoomMenu/RoomMenu.yy",},
     {"name":"RoomOpcoes","order":2,"path":"rooms/RoomOpcoes/RoomOpcoes.yy",},
     {"name":"bktGlitch_inline","order":1,"path":"scripts/bktGlitch_inline/bktGlitch_inline.yy",},
@@ -96,6 +99,7 @@
     {"name":"spr_slider2","order":26,"path":"sprites/spr_slider2/spr_slider2.yy",},
     {"name":"spr_sol","order":17,"path":"sprites/spr_sol/spr_sol.yy",},
     {"name":"spr_texto_som","order":27,"path":"sprites/spr_texto_som/spr_texto_som.yy",},
+main
     {"name":"Spr_texture","order":14,"path":"sprites/Spr_texture/Spr_texture.yy",},
     {"name":"Spr_tileset","order":13,"path":"sprites/Spr_tileset/Spr_tileset.yy",},
     {"name":"Spr_tiro","order":15,"path":"sprites/Spr_tiro/Spr_tiro.yy",},
@@ -103,9 +107,12 @@
     {"name":"Sprite11","order":19,"path":"sprites/Sprite11/Sprite11.yy",},
     {"name":"Sprite12","order":21,"path":"sprites/Sprite12/Sprite12.yy",},
     {"name":"Sprite18","order":25,"path":"sprites/Sprite18/Sprite18.yy",},
+    {"name":"Sprite40","order":32,"path":"sprites/Sprite40/Sprite40.yy",},
     {"name":"Sprite9","order":16,"path":"sprites/Sprite9/Sprite9.yy",},
     {"name":"spt_chave","order":21,"path":"sprites/spt_chave/spt_chave.yy",},
     {"name":"TileSet1","order":17,"path":"tilesets/TileSet1/TileSet1.yy",},
     {"name":"TileSet2","order":20,"path":"tilesets/TileSet2/TileSet2.yy",},
+    {"name":"TileSet3","order":23,"path":"tilesets/TileSet3/TileSet3.yy",},
+    {"name":"TileSet4","order":24,"path":"tilesets/TileSet4/TileSet4.yy",},
   ],
 }
