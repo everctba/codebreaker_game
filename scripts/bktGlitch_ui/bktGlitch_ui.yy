@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"bktGlitch_ui",
   "isCompatibility":false,
   "isDnD":false,
