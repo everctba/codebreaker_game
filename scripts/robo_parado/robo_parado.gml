@@ -13,7 +13,7 @@ diferencaY = obj_player.id.y - y;
 //	show_debug_message("diferenca X = " + string(diferencaX));
 	
 //}
-if distance_to_object(obj_player.id) < 100
+if distance_to_object(obj_player) < 100
 {
 	podecriarTextoRobo = true;
 	show_debug_message("Entrou no range");

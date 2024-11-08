@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"game_versao_6",
-    "path":"game_versao_6.yyp",
+    "name":"game_versao_6-do-ever-pre-projeto-do-ian",
+    "path":"game_versao_6-do-ever-pre-projeto-do-ian.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

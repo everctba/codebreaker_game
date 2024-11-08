@@ -8,15 +8,15 @@ spd = 0.5
 //x = obj_robo.x;
 //y = obj_robo.y;
 
-diferencaX = obj_player.x - x;
-diferencaY = obj_player.y - y;
+diferencaX = obj_player.x - id.x;
+diferencaY = obj_player.y - id.y;
 
 //--------------------------------------------------------------------------------
 
 
 
-targetX = obj_player.x - x;
-targetY = obj_player.y - y;
+targetX = obj_player.x - id.x;
+targetY = obj_player.y - id.y;
 
 var _targetX = sign(targetX) * spd;
 var _targetY = sign(targetY) * spd;
@@ -46,12 +46,12 @@ if distance_to_object(obj_player) > 400 {
 
 }
 //if place_meeting(x, y, obj_player){
-if distance_to_object(obj_player) < 10 {
+if distance_to_object(obj_player.id) < 10 {
 
     state = INIMIGO_STATE.ATACANDO;
 
 }else 
-if distance_to_object(obj_player) < 400
+if distance_to_object(obj_player.id) < 400
 {
     state = INIMIGO_STATE.PERSEGUINDO;  //para ter certeza que ele vai voltar depois de atacar o player
 
